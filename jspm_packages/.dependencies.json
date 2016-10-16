@@ -65,5 +65,6 @@
   "npm:path-browserify@0.0.0": {
     "process": "github:jspm/nodelibs-process@^0.1.0"
   },
-  "github:systemjs/plugin-json@0.1.2": {}
+  "github:systemjs/plugin-json@0.1.2": {},
+  "npm:node-event-emitter@0.0.1": {}
 }
